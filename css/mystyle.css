@@ -30,3 +30,17 @@ html,
 #footer{
     background-color: antiquewhite
 }
+
+.myforms{
+    border-color: antiquewhite;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 20px;
+      width: 200px;
+  }
+  #sourceForm{
+    background-color: lightgreen;
+  }
+  #targetForm{
+    background-color: lightgreen;
+  }
